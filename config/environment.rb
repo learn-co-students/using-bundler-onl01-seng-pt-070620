@@ -1,3 +1,3 @@
 require 'bundler/setup'
-require 'bundle/config'
+# require 'bundle/config'
 Bundler.require(:default, :development)
