@@ -1,6 +1,6 @@
 # Using Bundler Code-Along
 
-## Objectives
+
 
 - Learn about requiring external code libraries, called gems, in your Ruby
   applications.
